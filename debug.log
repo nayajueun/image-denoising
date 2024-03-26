@@ -1,0 +1,499 @@
+2024-03-26 20:10:46,306:INFO:Image NORMAL2-IM-1440-0001.jpeg loaded
+2024-03-26 20:10:46,311:INFO:Image NORMAL2-IM-1437-0001.jpeg loaded
+2024-03-26 20:10:46,318:INFO:Image NORMAL2-IM-1431-0001.jpeg loaded
+2024-03-26 20:10:46,323:INFO:Image NORMAL2-IM-1436-0001.jpeg loaded
+2024-03-26 20:10:46,329:INFO:Image NORMAL2-IM-1430-0001.jpeg loaded
+2024-03-26 20:10:46,334:INFO:Image NORMAL2-IM-1438-0001.jpeg loaded
+2024-03-26 20:10:46,350:INFO:Image NORMAL2-IM-1442-0001.jpeg loaded
+2024-03-26 20:10:46,357:INFO:Image NORMAL2-IM-1427-0001.jpeg loaded
+2024-03-26 20:10:46,357:INFO:8 images loaded from images/chest_xray/val/NORMAL
+2024-03-26 20:10:46,360:INFO:Image person1950_bacteria_4881.jpeg loaded
+2024-03-26 20:10:46,362:INFO:Image person1951_bacteria_4882.jpeg loaded
+2024-03-26 20:10:46,364:INFO:Image person1952_bacteria_4883.jpeg loaded
+2024-03-26 20:10:46,366:INFO:Image person1946_bacteria_4874.jpeg loaded
+2024-03-26 20:10:46,368:INFO:Image person1947_bacteria_4876.jpeg loaded
+2024-03-26 20:10:46,370:INFO:Image person1946_bacteria_4875.jpeg loaded
+2024-03-26 20:10:46,373:INFO:Image person1949_bacteria_4880.jpeg loaded
+2024-03-26 20:10:46,377:INFO:Image person1954_bacteria_4886.jpeg loaded
+2024-03-26 20:10:46,377:INFO:8 images loaded from images/chest_xray/val/PNEUMONIA
+2024-03-26 20:10:46,382:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,386:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,394:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,399:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,404:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,410:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,412:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,418:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,425:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,430:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,432:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,434:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,436:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,439:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,443:INFO:Histogram Equalization applied
+2024-03-26 20:10:46,449:INFO:Histogram Equalization applied
+2024-03-26 20:12:06,412:INFO:Histogram Equalization applied
+2024-03-26 20:12:06,672:INFO:Wavelet Transform applied
+2024-03-26 20:12:06,765:INFO:PSNR calculated for image{i}
+2024-03-26 20:12:43,497:INFO:Image NORMAL2-IM-1440-0001.jpeg loaded
+2024-03-26 20:12:43,502:INFO:Image NORMAL2-IM-1437-0001.jpeg loaded
+2024-03-26 20:12:43,509:INFO:Image NORMAL2-IM-1431-0001.jpeg loaded
+2024-03-26 20:12:43,515:INFO:Image NORMAL2-IM-1436-0001.jpeg loaded
+2024-03-26 20:12:43,520:INFO:Image NORMAL2-IM-1430-0001.jpeg loaded
+2024-03-26 20:12:43,524:INFO:Image NORMAL2-IM-1438-0001.jpeg loaded
+2024-03-26 20:12:43,534:INFO:Image NORMAL2-IM-1442-0001.jpeg loaded
+2024-03-26 20:12:43,541:INFO:Image NORMAL2-IM-1427-0001.jpeg loaded
+2024-03-26 20:12:43,541:INFO:8 images loaded from images/chest_xray/val/NORMAL
+2024-03-26 20:12:43,544:INFO:Image person1950_bacteria_4881.jpeg loaded
+2024-03-26 20:12:43,546:INFO:Image person1951_bacteria_4882.jpeg loaded
+2024-03-26 20:12:43,549:INFO:Image person1952_bacteria_4883.jpeg loaded
+2024-03-26 20:12:43,551:INFO:Image person1946_bacteria_4874.jpeg loaded
+2024-03-26 20:12:43,553:INFO:Image person1947_bacteria_4876.jpeg loaded
+2024-03-26 20:12:43,554:INFO:Image person1946_bacteria_4875.jpeg loaded
+2024-03-26 20:12:43,558:INFO:Image person1949_bacteria_4880.jpeg loaded
+2024-03-26 20:12:43,561:INFO:Image person1954_bacteria_4886.jpeg loaded
+2024-03-26 20:12:43,561:INFO:8 images loaded from images/chest_xray/val/PNEUMONIA
+2024-03-26 20:12:43,564:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,568:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,575:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,579:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,587:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,593:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,596:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,599:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,601:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,604:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,609:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,614:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,619:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,622:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,626:INFO:Histogram Equalization applied
+2024-03-26 20:12:43,631:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,821:INFO:Image NORMAL2-IM-1440-0001.jpeg loaded
+2024-03-26 20:16:38,826:INFO:Image NORMAL2-IM-1437-0001.jpeg loaded
+2024-03-26 20:16:38,833:INFO:Image NORMAL2-IM-1431-0001.jpeg loaded
+2024-03-26 20:16:38,839:INFO:Image NORMAL2-IM-1436-0001.jpeg loaded
+2024-03-26 20:16:38,844:INFO:Image NORMAL2-IM-1430-0001.jpeg loaded
+2024-03-26 20:16:38,848:INFO:Image NORMAL2-IM-1438-0001.jpeg loaded
+2024-03-26 20:16:38,858:INFO:Image NORMAL2-IM-1442-0001.jpeg loaded
+2024-03-26 20:16:38,865:INFO:Image NORMAL2-IM-1427-0001.jpeg loaded
+2024-03-26 20:16:38,865:INFO:8 images loaded from images/chest_xray/val/NORMAL
+2024-03-26 20:16:38,869:INFO:Image person1950_bacteria_4881.jpeg loaded
+2024-03-26 20:16:38,870:INFO:Image person1951_bacteria_4882.jpeg loaded
+2024-03-26 20:16:38,873:INFO:Image person1952_bacteria_4883.jpeg loaded
+2024-03-26 20:16:38,875:INFO:Image person1946_bacteria_4874.jpeg loaded
+2024-03-26 20:16:38,878:INFO:Image person1947_bacteria_4876.jpeg loaded
+2024-03-26 20:16:38,879:INFO:Image person1946_bacteria_4875.jpeg loaded
+2024-03-26 20:16:38,883:INFO:Image person1949_bacteria_4880.jpeg loaded
+2024-03-26 20:16:38,887:INFO:Image person1954_bacteria_4886.jpeg loaded
+2024-03-26 20:16:38,887:INFO:8 images loaded from images/chest_xray/val/PNEUMONIA
+2024-03-26 20:16:38,891:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,895:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,899:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,908:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,914:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,918:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,921:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,924:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,928:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,931:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,938:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,941:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,943:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,946:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,957:INFO:Histogram Equalization applied
+2024-03-26 20:16:38,963:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,032:INFO:Image NORMAL2-IM-1440-0001.jpeg loaded
+2024-03-26 20:16:59,037:INFO:Image NORMAL2-IM-1437-0001.jpeg loaded
+2024-03-26 20:16:59,044:INFO:Image NORMAL2-IM-1431-0001.jpeg loaded
+2024-03-26 20:16:59,049:INFO:Image NORMAL2-IM-1436-0001.jpeg loaded
+2024-03-26 20:16:59,055:INFO:Image NORMAL2-IM-1430-0001.jpeg loaded
+2024-03-26 20:16:59,059:INFO:Image NORMAL2-IM-1438-0001.jpeg loaded
+2024-03-26 20:16:59,068:INFO:Image NORMAL2-IM-1442-0001.jpeg loaded
+2024-03-26 20:16:59,076:INFO:Image NORMAL2-IM-1427-0001.jpeg loaded
+2024-03-26 20:16:59,076:INFO:8 images loaded from images/chest_xray/val/NORMAL
+2024-03-26 20:16:59,082:INFO:Image person1950_bacteria_4881.jpeg loaded
+2024-03-26 20:16:59,088:INFO:Image person1951_bacteria_4882.jpeg loaded
+2024-03-26 20:16:59,091:INFO:Image person1952_bacteria_4883.jpeg loaded
+2024-03-26 20:16:59,093:INFO:Image person1946_bacteria_4874.jpeg loaded
+2024-03-26 20:16:59,095:INFO:Image person1947_bacteria_4876.jpeg loaded
+2024-03-26 20:16:59,096:INFO:Image person1946_bacteria_4875.jpeg loaded
+2024-03-26 20:16:59,100:INFO:Image person1949_bacteria_4880.jpeg loaded
+2024-03-26 20:16:59,103:INFO:Image person1954_bacteria_4886.jpeg loaded
+2024-03-26 20:16:59,103:INFO:8 images loaded from images/chest_xray/val/PNEUMONIA
+2024-03-26 20:16:59,109:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,111:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,115:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,119:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,121:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,131:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,137:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,139:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,142:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,149:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,152:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,157:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,170:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,173:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,178:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,184:INFO:Histogram Equalization applied
+2024-03-26 20:16:59,184:INFO:NLM to be applied: parameter = 1.0
+2024-03-26 20:18:18,866:INFO:NLM applied
+2024-03-26 20:18:18,867:INFO:Wavelet Transform to bee applied
+2024-03-26 20:18:19,125:INFO:Wavelet Transform applied
+2024-03-26 20:18:19,209:INFO:PSNR calculated for images
+2024-03-26 20:23:52,014:INFO:Image NORMAL2-IM-1440-0001.jpeg loaded
+2024-03-26 20:23:52,019:INFO:Image NORMAL2-IM-1437-0001.jpeg loaded
+2024-03-26 20:23:52,026:INFO:Image NORMAL2-IM-1431-0001.jpeg loaded
+2024-03-26 20:23:52,031:INFO:Image NORMAL2-IM-1436-0001.jpeg loaded
+2024-03-26 20:23:52,037:INFO:Image NORMAL2-IM-1430-0001.jpeg loaded
+2024-03-26 20:23:52,041:INFO:Image NORMAL2-IM-1438-0001.jpeg loaded
+2024-03-26 20:23:52,051:INFO:Image NORMAL2-IM-1442-0001.jpeg loaded
+2024-03-26 20:23:52,060:INFO:Image NORMAL2-IM-1427-0001.jpeg loaded
+2024-03-26 20:23:52,060:INFO:8 images loaded from images/chest_xray/val/NORMAL
+2024-03-26 20:23:52,063:INFO:Image person1950_bacteria_4881.jpeg loaded
+2024-03-26 20:23:52,065:INFO:Image person1951_bacteria_4882.jpeg loaded
+2024-03-26 20:23:52,068:INFO:Image person1952_bacteria_4883.jpeg loaded
+2024-03-26 20:23:52,070:INFO:Image person1946_bacteria_4874.jpeg loaded
+2024-03-26 20:23:52,073:INFO:Image person1947_bacteria_4876.jpeg loaded
+2024-03-26 20:23:52,074:INFO:Image person1946_bacteria_4875.jpeg loaded
+2024-03-26 20:23:52,078:INFO:Image person1949_bacteria_4880.jpeg loaded
+2024-03-26 20:23:52,081:INFO:Image person1954_bacteria_4886.jpeg loaded
+2024-03-26 20:23:52,081:INFO:8 images loaded from images/chest_xray/val/PNEUMONIA
+2024-03-26 20:23:52,084:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,092:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,096:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,113:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,124:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,131:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,136:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,140:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,144:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,148:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,154:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,157:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,160:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,164:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,166:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,169:INFO:Histogram Equalization applied
+2024-03-26 20:23:52,169:INFO:NLM to be applied: parameter = 1.0
+2024-03-26 20:25:11,964:INFO:NLM applied
+2024-03-26 20:25:11,965:INFO:Wavelet Transform to bee applied
+2024-03-26 20:25:12,490:INFO:Wavelet Transform applied
+2024-03-26 20:25:12,602:INFO:PSNR calculated for images
+2024-03-26 20:25:12,660:INFO:PSNR calculated for images
+2024-03-26 20:36:43,075:INFO:Image NORMAL2-IM-1440-0001.jpeg loaded
+2024-03-26 20:36:43,081:INFO:Image NORMAL2-IM-1437-0001.jpeg loaded
+2024-03-26 20:36:43,090:INFO:Image NORMAL2-IM-1431-0001.jpeg loaded
+2024-03-26 20:36:43,097:INFO:Image NORMAL2-IM-1436-0001.jpeg loaded
+2024-03-26 20:36:43,103:INFO:Image NORMAL2-IM-1430-0001.jpeg loaded
+2024-03-26 20:36:43,107:INFO:Image NORMAL2-IM-1438-0001.jpeg loaded
+2024-03-26 20:36:43,117:INFO:Image NORMAL2-IM-1442-0001.jpeg loaded
+2024-03-26 20:36:43,124:INFO:Image NORMAL2-IM-1427-0001.jpeg loaded
+2024-03-26 20:36:43,124:INFO:8 images loaded from images/chest_xray/val/NORMAL
+2024-03-26 20:36:43,127:INFO:Image person1950_bacteria_4881.jpeg loaded
+2024-03-26 20:36:43,129:INFO:Image person1951_bacteria_4882.jpeg loaded
+2024-03-26 20:36:43,131:INFO:Image person1952_bacteria_4883.jpeg loaded
+2024-03-26 20:36:43,133:INFO:Image person1946_bacteria_4874.jpeg loaded
+2024-03-26 20:36:43,135:INFO:Image person1947_bacteria_4876.jpeg loaded
+2024-03-26 20:36:43,137:INFO:Image person1946_bacteria_4875.jpeg loaded
+2024-03-26 20:36:43,140:INFO:Image person1949_bacteria_4880.jpeg loaded
+2024-03-26 20:36:43,144:INFO:Image person1954_bacteria_4886.jpeg loaded
+2024-03-26 20:36:43,144:INFO:8 images loaded from images/chest_xray/val/PNEUMONIA
+2024-03-26 20:36:43,146:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,149:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,153:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,164:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,173:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,180:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,186:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,189:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,197:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,200:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,205:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,208:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,212:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,214:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,217:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,221:INFO:Histogram Equalization applied
+2024-03-26 20:36:43,221:INFO:NLM to be applied: parameter = 1.0
+2024-03-26 20:37:30,153:INFO:Image NORMAL2-IM-1440-0001.jpeg loaded
+2024-03-26 20:37:30,158:INFO:Image NORMAL2-IM-1437-0001.jpeg loaded
+2024-03-26 20:37:30,165:INFO:Image NORMAL2-IM-1431-0001.jpeg loaded
+2024-03-26 20:37:30,170:INFO:Image NORMAL2-IM-1436-0001.jpeg loaded
+2024-03-26 20:37:30,175:INFO:Image NORMAL2-IM-1430-0001.jpeg loaded
+2024-03-26 20:37:30,180:INFO:Image NORMAL2-IM-1438-0001.jpeg loaded
+2024-03-26 20:37:30,189:INFO:Image NORMAL2-IM-1442-0001.jpeg loaded
+2024-03-26 20:37:30,196:INFO:Image NORMAL2-IM-1427-0001.jpeg loaded
+2024-03-26 20:37:30,196:INFO:8 images loaded from images/chest_xray/val/NORMAL
+2024-03-26 20:37:30,199:INFO:Image person1950_bacteria_4881.jpeg loaded
+2024-03-26 20:37:30,200:INFO:Image person1951_bacteria_4882.jpeg loaded
+2024-03-26 20:37:30,203:INFO:Image person1952_bacteria_4883.jpeg loaded
+2024-03-26 20:37:30,205:INFO:Image person1946_bacteria_4874.jpeg loaded
+2024-03-26 20:37:30,207:INFO:Image person1947_bacteria_4876.jpeg loaded
+2024-03-26 20:37:30,209:INFO:Image person1946_bacteria_4875.jpeg loaded
+2024-03-26 20:37:30,212:INFO:Image person1949_bacteria_4880.jpeg loaded
+2024-03-26 20:37:30,216:INFO:Image person1954_bacteria_4886.jpeg loaded
+2024-03-26 20:37:30,216:INFO:8 images loaded from images/chest_xray/val/PNEUMONIA
+2024-03-26 20:37:30,222:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,225:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,230:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,234:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,241:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,243:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,247:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,249:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,255:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,259:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,265:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,267:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,270:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,272:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,278:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,282:INFO:Histogram Equalization applied
+2024-03-26 20:37:30,282:INFO:NLM to be applied: parameter = 1.0
+2024-03-26 20:38:50,081:INFO:NLM applied
+2024-03-26 20:38:50,081:INFO:Wavelet Transform to bee applied
+2024-03-26 20:38:50,606:INFO:Wavelet Transform applied
+2024-03-26 20:38:50,674:INFO:PSNR calculated for images
+2024-03-26 20:38:50,736:INFO:PSNR calculated for images
+2024-03-26 20:39:30,388:INFO:Image NORMAL2-IM-1440-0001.jpeg loaded
+2024-03-26 20:39:30,393:INFO:Image NORMAL2-IM-1437-0001.jpeg loaded
+2024-03-26 20:39:30,400:INFO:Image NORMAL2-IM-1431-0001.jpeg loaded
+2024-03-26 20:39:30,405:INFO:Image NORMAL2-IM-1436-0001.jpeg loaded
+2024-03-26 20:39:30,411:INFO:Image NORMAL2-IM-1430-0001.jpeg loaded
+2024-03-26 20:39:30,415:INFO:Image NORMAL2-IM-1438-0001.jpeg loaded
+2024-03-26 20:39:30,425:INFO:Image NORMAL2-IM-1442-0001.jpeg loaded
+2024-03-26 20:39:30,432:INFO:Image NORMAL2-IM-1427-0001.jpeg loaded
+2024-03-26 20:39:30,432:INFO:8 images loaded from images/chest_xray/val/NORMAL
+2024-03-26 20:39:30,435:INFO:Image person1950_bacteria_4881.jpeg loaded
+2024-03-26 20:39:30,436:INFO:Image person1951_bacteria_4882.jpeg loaded
+2024-03-26 20:39:30,439:INFO:Image person1952_bacteria_4883.jpeg loaded
+2024-03-26 20:39:30,441:INFO:Image person1946_bacteria_4874.jpeg loaded
+2024-03-26 20:39:30,443:INFO:Image person1947_bacteria_4876.jpeg loaded
+2024-03-26 20:39:30,445:INFO:Image person1946_bacteria_4875.jpeg loaded
+2024-03-26 20:39:30,448:INFO:Image person1949_bacteria_4880.jpeg loaded
+2024-03-26 20:39:30,452:INFO:Image person1954_bacteria_4886.jpeg loaded
+2024-03-26 20:39:30,452:INFO:8 images loaded from images/chest_xray/val/PNEUMONIA
+2024-03-26 20:39:30,459:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,466:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,470:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,472:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,477:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,482:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,485:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,487:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,491:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,494:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,498:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,505:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,507:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,514:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,517:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,519:INFO:Histogram Equalization applied
+2024-03-26 20:39:30,520:INFO:NLM to be applied: parameter = 1.0
+2024-03-26 20:40:53,673:INFO:NLM applied
+2024-03-26 20:40:53,673:INFO:Wavelet Transform to bee applied
+2024-03-26 20:40:54,198:INFO:Wavelet Transform applied
+2024-03-26 20:40:54,271:INFO:PSNR calculated for images
+2024-03-26 20:40:54,335:INFO:PSNR calculated for images
+2024-03-26 20:41:10,233:INFO:Image NORMAL2-IM-1440-0001.jpeg loaded
+2024-03-26 20:41:10,239:INFO:Image NORMAL2-IM-1437-0001.jpeg loaded
+2024-03-26 20:41:10,246:INFO:Image NORMAL2-IM-1431-0001.jpeg loaded
+2024-03-26 20:41:10,251:INFO:Image NORMAL2-IM-1436-0001.jpeg loaded
+2024-03-26 20:41:10,256:INFO:Image NORMAL2-IM-1430-0001.jpeg loaded
+2024-03-26 20:41:10,260:INFO:Image NORMAL2-IM-1438-0001.jpeg loaded
+2024-03-26 20:41:10,270:INFO:Image NORMAL2-IM-1442-0001.jpeg loaded
+2024-03-26 20:41:10,277:INFO:Image NORMAL2-IM-1427-0001.jpeg loaded
+2024-03-26 20:41:10,277:INFO:8 images loaded from images/chest_xray/val/NORMAL
+2024-03-26 20:41:10,280:INFO:Image person1950_bacteria_4881.jpeg loaded
+2024-03-26 20:41:10,282:INFO:Image person1951_bacteria_4882.jpeg loaded
+2024-03-26 20:41:10,284:INFO:Image person1952_bacteria_4883.jpeg loaded
+2024-03-26 20:41:10,286:INFO:Image person1946_bacteria_4874.jpeg loaded
+2024-03-26 20:41:10,288:INFO:Image person1947_bacteria_4876.jpeg loaded
+2024-03-26 20:41:10,290:INFO:Image person1946_bacteria_4875.jpeg loaded
+2024-03-26 20:41:10,293:INFO:Image person1949_bacteria_4880.jpeg loaded
+2024-03-26 20:41:10,297:INFO:Image person1954_bacteria_4886.jpeg loaded
+2024-03-26 20:41:10,297:INFO:8 images loaded from images/chest_xray/val/PNEUMONIA
+2024-03-26 20:41:10,301:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,305:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,311:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,315:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,318:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,322:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,325:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,332:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,335:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,337:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,343:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,345:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,347:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,352:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,358:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,364:INFO:Histogram Equalization applied
+2024-03-26 20:41:10,364:INFO:NLM to be applied: parameter = 1.0
+2024-03-26 20:42:31,326:INFO:NLM applied
+2024-03-26 20:42:31,327:INFO:Wavelet Transform to bee applied
+2024-03-26 20:42:31,865:INFO:Wavelet Transform applied
+2024-03-26 20:42:31,951:INFO:PSNR calculated for images
+2024-03-26 20:42:32,016:INFO:PSNR calculated for images
+2024-03-26 20:43:42,404:INFO:Image NORMAL2-IM-1440-0001.jpeg loaded
+2024-03-26 20:43:42,409:INFO:Image NORMAL2-IM-1437-0001.jpeg loaded
+2024-03-26 20:43:42,416:INFO:Image NORMAL2-IM-1431-0001.jpeg loaded
+2024-03-26 20:43:42,421:INFO:Image NORMAL2-IM-1436-0001.jpeg loaded
+2024-03-26 20:43:42,427:INFO:Image NORMAL2-IM-1430-0001.jpeg loaded
+2024-03-26 20:43:42,431:INFO:Image NORMAL2-IM-1438-0001.jpeg loaded
+2024-03-26 20:43:42,441:INFO:Image NORMAL2-IM-1442-0001.jpeg loaded
+2024-03-26 20:43:42,448:INFO:Image NORMAL2-IM-1427-0001.jpeg loaded
+2024-03-26 20:43:42,449:INFO:8 images loaded from images/chest_xray/val/NORMAL
+2024-03-26 20:43:42,453:INFO:Image person1950_bacteria_4881.jpeg loaded
+2024-03-26 20:43:42,455:INFO:Image person1951_bacteria_4882.jpeg loaded
+2024-03-26 20:43:42,458:INFO:Image person1952_bacteria_4883.jpeg loaded
+2024-03-26 20:43:42,460:INFO:Image person1946_bacteria_4874.jpeg loaded
+2024-03-26 20:43:42,462:INFO:Image person1947_bacteria_4876.jpeg loaded
+2024-03-26 20:43:42,464:INFO:Image person1946_bacteria_4875.jpeg loaded
+2024-03-26 20:43:42,467:INFO:Image person1949_bacteria_4880.jpeg loaded
+2024-03-26 20:43:42,471:INFO:Image person1954_bacteria_4886.jpeg loaded
+2024-03-26 20:43:42,471:INFO:8 images loaded from images/chest_xray/val/PNEUMONIA
+2024-03-26 20:43:42,477:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,480:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,488:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,492:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,495:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,506:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,511:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,515:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,517:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,522:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,524:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,526:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,532:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,535:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,542:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,550:INFO:Histogram Equalization applied
+2024-03-26 20:43:42,550:INFO:NLM to be applied: parameter = 1.0
+2024-03-26 20:45:03,380:INFO:NLM applied
+2024-03-26 20:45:03,381:INFO:Wavelet Transform to bee applied
+2024-03-26 20:45:03,958:INFO:Wavelet Transform applied
+2024-03-26 20:45:04,046:INFO:PSNR calculated for images
+2024-03-26 20:45:04,111:INFO:PSNR calculated for images
+2024-03-26 20:45:55,748:INFO:Image NORMAL2-IM-1440-0001.jpeg loaded
+2024-03-26 20:45:55,754:INFO:Image NORMAL2-IM-1437-0001.jpeg loaded
+2024-03-26 20:45:55,760:INFO:Image NORMAL2-IM-1431-0001.jpeg loaded
+2024-03-26 20:45:55,765:INFO:Image NORMAL2-IM-1436-0001.jpeg loaded
+2024-03-26 20:45:55,771:INFO:Image NORMAL2-IM-1430-0001.jpeg loaded
+2024-03-26 20:45:55,775:INFO:Image NORMAL2-IM-1438-0001.jpeg loaded
+2024-03-26 20:45:55,785:INFO:Image NORMAL2-IM-1442-0001.jpeg loaded
+2024-03-26 20:45:55,792:INFO:Image NORMAL2-IM-1427-0001.jpeg loaded
+2024-03-26 20:45:55,792:INFO:8 images loaded from images/chest_xray/val/NORMAL
+2024-03-26 20:45:55,795:INFO:Image person1950_bacteria_4881.jpeg loaded
+2024-03-26 20:45:55,796:INFO:Image person1951_bacteria_4882.jpeg loaded
+2024-03-26 20:45:55,799:INFO:Image person1952_bacteria_4883.jpeg loaded
+2024-03-26 20:45:55,801:INFO:Image person1946_bacteria_4874.jpeg loaded
+2024-03-26 20:45:55,803:INFO:Image person1947_bacteria_4876.jpeg loaded
+2024-03-26 20:45:55,805:INFO:Image person1946_bacteria_4875.jpeg loaded
+2024-03-26 20:45:55,808:INFO:Image person1949_bacteria_4880.jpeg loaded
+2024-03-26 20:45:55,811:INFO:Image person1954_bacteria_4886.jpeg loaded
+2024-03-26 20:45:55,812:INFO:8 images loaded from images/chest_xray/val/PNEUMONIA
+2024-03-26 20:45:55,816:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,818:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,822:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,824:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,828:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,833:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,837:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,842:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,846:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,848:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,851:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,856:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,862:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,868:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,871:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,878:INFO:Histogram Equalization applied
+2024-03-26 20:45:55,878:INFO:NLM to be applied: parameter = 1.0
+2024-03-26 20:47:18,102:INFO:NLM applied
+2024-03-26 20:47:18,103:INFO:Wavelet Transform to bee applied
+2024-03-26 20:47:18,638:INFO:Wavelet Transform applied
+2024-03-26 20:47:18,734:INFO:PSNR calculated for images
+2024-03-26 20:47:18,799:INFO:PSNR calculated for images
+2024-03-26 20:49:54,258:INFO:Image NORMAL2-IM-1440-0001.jpeg loaded
+2024-03-26 20:49:54,264:INFO:Image NORMAL2-IM-1437-0001.jpeg loaded
+2024-03-26 20:49:54,270:INFO:Image NORMAL2-IM-1431-0001.jpeg loaded
+2024-03-26 20:49:54,275:INFO:Image NORMAL2-IM-1436-0001.jpeg loaded
+2024-03-26 20:49:54,280:INFO:Image NORMAL2-IM-1430-0001.jpeg loaded
+2024-03-26 20:49:54,284:INFO:Image NORMAL2-IM-1438-0001.jpeg loaded
+2024-03-26 20:49:54,294:INFO:Image NORMAL2-IM-1442-0001.jpeg loaded
+2024-03-26 20:49:54,300:INFO:Image NORMAL2-IM-1427-0001.jpeg loaded
+2024-03-26 20:49:54,300:INFO:8 images loaded from images/chest_xray/val/NORMAL
+2024-03-26 20:49:54,303:INFO:Image person1950_bacteria_4881.jpeg loaded
+2024-03-26 20:49:54,305:INFO:Image person1951_bacteria_4882.jpeg loaded
+2024-03-26 20:49:54,308:INFO:Image person1952_bacteria_4883.jpeg loaded
+2024-03-26 20:49:54,309:INFO:Image person1946_bacteria_4874.jpeg loaded
+2024-03-26 20:49:54,311:INFO:Image person1947_bacteria_4876.jpeg loaded
+2024-03-26 20:49:54,313:INFO:Image person1946_bacteria_4875.jpeg loaded
+2024-03-26 20:49:54,316:INFO:Image person1949_bacteria_4880.jpeg loaded
+2024-03-26 20:49:54,320:INFO:Image person1954_bacteria_4886.jpeg loaded
+2024-03-26 20:49:54,320:INFO:8 images loaded from images/chest_xray/val/PNEUMONIA
+2024-03-26 20:49:54,328:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,330:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,336:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,341:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,346:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,350:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,357:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,360:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,365:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,367:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,373:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,375:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,377:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,380:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,384:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,387:INFO:Histogram Equalization applied
+2024-03-26 20:49:54,387:INFO:NLM to be applied: parameter = 1.0
+2024-03-26 20:51:14,523:INFO:NLM applied
+2024-03-26 20:51:14,525:INFO:Wavelet Transform to bee applied
+2024-03-26 20:51:15,053:INFO:Wavelet Transform applied
+2024-03-26 20:51:15,130:INFO:PSNR calculated for images
+2024-03-26 20:51:15,187:INFO:PSNR calculated for images
+2024-03-26 20:56:06,075:INFO:Image NORMAL2-IM-1440-0001.jpeg loaded
+2024-03-26 20:56:06,080:INFO:Image NORMAL2-IM-1437-0001.jpeg loaded
+2024-03-26 20:56:06,085:INFO:Image NORMAL2-IM-1431-0001.jpeg loaded
+2024-03-26 20:56:06,088:INFO:Image NORMAL2-IM-1436-0001.jpeg loaded
+2024-03-26 20:56:06,092:INFO:Image NORMAL2-IM-1430-0001.jpeg loaded
+2024-03-26 20:56:06,095:INFO:Image NORMAL2-IM-1438-0001.jpeg loaded
+2024-03-26 20:56:06,101:INFO:Image NORMAL2-IM-1442-0001.jpeg loaded
+2024-03-26 20:56:06,106:INFO:Image NORMAL2-IM-1427-0001.jpeg loaded
+2024-03-26 20:56:06,106:INFO:8 images loaded from images/chest_xray/val/NORMAL
+2024-03-26 20:56:06,108:INFO:Image person1950_bacteria_4881.jpeg loaded
+2024-03-26 20:56:06,109:INFO:Image person1951_bacteria_4882.jpeg loaded
+2024-03-26 20:56:06,111:INFO:Image person1952_bacteria_4883.jpeg loaded
+2024-03-26 20:56:06,112:INFO:Image person1946_bacteria_4874.jpeg loaded
+2024-03-26 20:56:06,113:INFO:Image person1947_bacteria_4876.jpeg loaded
+2024-03-26 20:56:06,114:INFO:Image person1946_bacteria_4875.jpeg loaded
+2024-03-26 20:56:06,116:INFO:Image person1949_bacteria_4880.jpeg loaded
+2024-03-26 20:56:06,119:INFO:Image person1954_bacteria_4886.jpeg loaded
+2024-03-26 20:56:06,119:INFO:8 images loaded from images/chest_xray/val/PNEUMONIA
+2024-03-26 20:56:06,124:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,128:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,137:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,141:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,145:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,150:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,156:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,161:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,163:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,165:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,168:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,170:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,171:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,173:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,176:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,179:INFO:Histogram Equalization applied
+2024-03-26 20:56:06,179:INFO:NLM to be applied: parameter = 1.0
+2024-03-26 20:56:56,717:INFO:NLM applied
+2024-03-26 20:56:56,718:INFO:Wavelet Transform to bee applied
+2024-03-26 20:56:57,105:INFO:Wavelet Transform applied
+2024-03-26 20:56:57,186:INFO:PSNR calculated for images
+2024-03-26 20:56:57,234:INFO:PSNR calculated for images
