@@ -43,16 +43,13 @@ Our preliminary experiments utilized the "Chest X-Ray Images (Pneumonia)" datase
 
 ### Results Overview
 
-Path: `images/chest_xray/val/NORMAL/NORMAL2-IM-1440-0001.jpeg`
-![Original Image](images/chest_xray/val/NORMAL/NORMAL2-IM-1440-0001.jpeg)
+![Original Image](images/chest_xray/val/NORMAL/NORMAL2-IM-1430-0001.jpeg)
 Original image
 
-Path: `path_to_save_processed_images/NLM_NORMAL2-IM-1440-0001.jpeg`
-![NLM Denoised Image](path_to_save_processed_images/NLM_NORMAL2-IM-1440-0001.jpeg)
+![NLM Denoised Image](path_to_save_processed_images/NLM_NORMAL2-IM-1430-0001.jpeg)
 NLM image
 
-Path: `path_to_save_processed_images/NLM_NORMAL2-IM-1440-0001.jpeg`
-![NLM Denoised Image](path_to_save_processed_images/Wavelet_NORMAL2-IM-1440-0001.jpeg)
+![NLM Denoised Image](path_to_save_processed_images/Wavelet_NORMAL2-IM-1430-0001.jpeg)
 Wavelet image
 
 
