@@ -4,7 +4,7 @@ import logging
 import cv2
 
 class Denoiser:
-    def apply_nlm(self, images, param=1.0):
+    def apply_nlm(self, images, param=0.2):
         logging.info(f'NLM to be applied: parameter = {param}')
         nlm_images = [restoration.denoise_nl_means(img, h=param, fast_mode=True) for img in images]
         logging.info('NLM applied')
